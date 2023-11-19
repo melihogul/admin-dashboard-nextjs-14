@@ -4,7 +4,7 @@ import './ui/globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'admin dashboard',
+  title: 'admin-dashboard-nextjs-14',
 }
 
 export default function RootLayout({ children }) {
